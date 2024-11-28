@@ -6,6 +6,8 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+![Example Image](image/image.jpg)
 
-This is a sample home page written in markdown with some frontmatter defined.
+Hej! jag heter Linh, pluggar webbprogrammering på BTH. 
+På fritiden burkar jag spela datorspel, läsa, umgås med vänner och m.m. 
+Senaste tiden brukar jag lyssna mycket på cpop och vpop.
