@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  width: 100%;
+  max-width: 64 rem;
+  padding: 2rem;
+  background-color: #edded4;
+  margin: 0 auto;
+}
+
+.main p {
+  font-family: 'Balsamiq Sans', serif;
+}

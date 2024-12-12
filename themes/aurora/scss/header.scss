@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2e495b;
+}
+
+.header h1 {
+  color: $font-alternative-color;
+}
+
+.header p {
+  color: $font-alternative-color;
+}
+
+.site-header {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;    
+}
+
+.nav a {
+  font-size: 2rem;
+  color: $font-alternative-color;
+}

@@ -6427,89 +6427,6 @@ body {
   font-family: "Protest Revolution", sans-serif;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-.main {
-  width: 100%;
-  max-width: 64 rem;
-  padding: 2rem;
-  background-color: #edded4;
-  margin: 0 auto;
-}
-
-.main p {
-  font-family: "Balsamiq Sans", serif;
-}
-
-.header {
-  display: flex;
-  flex-direction: row;
-  padding: 2rem;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #2e495b;
-}
-
-.header h1 {
-  color: #edded4;
-}
-
-.header p {
-  color: #edded4;
-}
-
-.site-header {
-  display: flex;
-  flex-direction: row;
-  padding: 2rem;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav a {
-  font-size: 2rem;
-  color: #edded4;
-}
-
-.footer {
-  display: flex;
-  flex-direction: row;
-  padding: 2rem;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #2e495b;
-}
-
-.footer p {
-  color: #edded4;
-}
-
-.social a {
-  text-decoration: none;
-  font-size: 3rem;
-  color: #edded4;
-}
-
-.logo img {
-  display: flex;
-  width: 50 px;
-  padding-right: 20px;
-  max-width: 100%;
-  border-radius: 50%;
-}
-
-.main img {
-  width: 200px;
-  border-radius: 10px;
-}
-
-img {
-  max-width: 100%;
-}
-
 blockquote {
   font-style: italic;
   margin-left: 1em;
@@ -6546,9 +6463,9 @@ pre code {
 }
 
 body {
-  background-color: #41aba4;
+  background-color: #3d5a80;
 }
 
 * {
-  color: #41aba4;
+  color: #000;
 }
